@@ -1,2 +1,3 @@
 # KNIME_Projects
-Repository for various KNIME Projects that I complete
+
+I will make sure to update this once I upload some completed KNIME projects. (They are almost complete!)
