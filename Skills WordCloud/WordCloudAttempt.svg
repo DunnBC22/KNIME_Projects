@@ -1,0 +1,452 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1584"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" height="396"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.0">
+    <style type="text/css" xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }</style><g class="titles"
+       transform="translate(2,0)">
+        <text class="knime-title" id="title" y="24">
+            Attempt @ Word Cloud
+        </text>
+    </g>
+    <g class="vis"
+       transform="translate(792, 216) scale(0.17110267281532288,0.17110267281532288)">
+        <text id="tag_2"
+              style="font-size: 160px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-206,15)rotate(0)" text-anchor="middle">
+            PostgreSQL
+        </text>
+        <text id="tag_1"
+              style="font-size: 160px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(300,75)rotate(-90)" text-anchor="middle">
+            SQL
+        </text>
+        <text id="tag_3"
+              style="font-size: 160px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(335,3)rotate(90)" text-anchor="middle">
+            MongoDB
+        </text>
+        <text id="tag_26"
+              style="font-size: 160px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-177,-308)rotate(0)" text-anchor="middle">
+            Extract, Transform, Load
+        </text>
+        <text id="tag_27"
+              style="font-size: 160px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(541,-26)rotate(0)" text-anchor="middle">
+            ETL
+        </text>
+        <text id="tag_17"
+              style="font-size: 150px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-734,65)rotate(90)" text-anchor="middle">
+            Scikit-Learn
+        </text>
+        <text id="tag_18"
+              style="font-size: 150px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(648,23)rotate(90)" text-anchor="middle">
+            Sklearn
+        </text>
+        <text id="tag_14"
+              style="font-size: 150px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-129,227)rotate(90)" text-anchor="middle">
+            Python
+        </text>
+        <text id="tag_9"
+              style="font-size: 139px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-31,-121)rotate(0)" text-anchor="middle">
+            Star Schema
+        </text>
+        <text id="tag_13"
+              style="font-size: 139px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(477,219)rotate(90)" text-anchor="middle">
+            Tableau
+        </text>
+        <text id="tag_10"
+              style="font-size: 139px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-99,-438)rotate(0)" text-anchor="middle">
+            Snowflake Schema
+        </text>
+        <text id="tag_28"
+              style="font-size: 139px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(92,164)rotate(-90)" text-anchor="middle">
+            Java
+        </text>
+        <text id="tag_67"
+              style="font-size: 107px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-402,99)rotate(90)" text-anchor="middle">
+            SAS
+        </text>
+        <text id="tag_65"
+              style="font-size: 107px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(261,-50)rotate(-90)" text-anchor="middle">
+            R
+        </text>
+        <text id="tag_64"
+              style="font-size: 107px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-345,257)rotate(0)" text-anchor="middle">
+            Scala
+        </text>
+        <text id="tag_24"
+              style="font-size: 82px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(38,504)rotate(0)" text-anchor="middle">
+            Data Warehouse
+        </text>
+        <text id="tag_25"
+              style="font-size: 82px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-741,515)rotate(0)" text-anchor="middle">
+            Exploratory Data Analysis
+        </text>
+        <text id="tag_34"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-609,-3)rotate(90)" text-anchor="middle">
+            Amazon EBS
+        </text>
+        <text id="tag_7"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-535,222)rotate(90)" text-anchor="middle">
+            Non-Relational Databases
+        </text>
+        <text id="tag_30"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(228,243)rotate(0)" text-anchor="middle">
+            Amazon EC2
+        </text>
+        <text id="tag_87"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-185,198)rotate(-90)" text-anchor="middle">
+            Data Preprocessing
+        </text>
+        <text id="tag_69"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-125,93)rotate(0)" text-anchor="middle">
+            SSRS
+        </text>
+        <text id="tag_79"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(631,139)rotate(-90)" text-anchor="middle">
+            Association Rules
+        </text>
+        <text id="tag_83"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-448,-197)rotate(-90)" text-anchor="middle">
+            Data Mining
+        </text>
+        <text id="tag_66"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(153,87)rotate(-90)" text-anchor="middle">
+            Ggplot2
+        </text>
+        <text id="tag_75"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(234,-79)rotate(0)" text-anchor="middle">
+            Anaconda
+        </text>
+        <text id="tag_15"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-280,87)rotate(-90)" text-anchor="middle">
+            NumPy
+        </text>
+        <text id="tag_77"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(825,191)rotate(-90)" text-anchor="middle">
+            Command Line Interface
+        </text>
+        <text id="tag_44"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-162,-236)rotate(0)" text-anchor="middle">
+            Dimensionality Reduction
+        </text>
+        <text id="tag_23"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-434,-165)rotate(90)" text-anchor="middle">
+            Docker
+        </text>
+        <text id="tag_4"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-548,-126)rotate(0)" text-anchor="middle">
+            MySQL
+        </text>
+        <text id="tag_21"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-571,162)rotate(90)" text-anchor="middle">
+            MatPlotLib
+        </text>
+        <text id="tag_62"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-244,444)rotate(-90)" text-anchor="middle">
+            Microsoft PowerPoint
+        </text>
+        <text id="tag_71"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-268,85)rotate(90)" text-anchor="middle">
+            KNIME
+        </text>
+        <text id="tag_82"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-148,302)rotate(-90)" text-anchor="middle">
+            Linear Algebra
+        </text>
+        <text id="tag_84"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(375,520)rotate(-90)" text-anchor="middle">
+            Business Intelligence
+        </text>
+        <text id="tag_20"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-439,72)rotate(90)" text-anchor="middle">
+            SciPy
+        </text>
+        <text id="tag_33"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-599,251)rotate(-90)" text-anchor="middle">
+            Amazon ECS
+        </text>
+        <text id="tag_32"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(97,288)rotate(90)" text-anchor="middle">
+            Amazon Aurora
+        </text>
+        <text id="tag_73"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-479,87)rotate(90)" text-anchor="middle">
+            Node.JS
+        </text>
+        <text id="tag_74"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-282,447)rotate(-90)" text-anchor="middle">
+            Visual Studio
+        </text>
+        <text id="tag_12"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(686,-645)rotate(90)" text-anchor="middle">
+            Common Table Expression
+        </text>
+        <text id="tag_68"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(231,281)rotate(0)" text-anchor="middle">
+            SSIS
+        </text>
+        <text id="tag_42"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(458,-589)rotate(90)" text-anchor="middle">
+            Regression Analysis
+        </text>
+        <text id="tag_19"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-385,294)rotate(0)" text-anchor="middle">
+            Statsmodels
+        </text>
+        <text id="tag_31"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-690,-717)rotate(-90)" text-anchor="middle">
+            Amazon Simple Storage Service (S3)
+        </text>
+        <text id="tag_76"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-554,-206)rotate(90)" text-anchor="middle">
+            Linux
+        </text>
+        <text id="tag_56"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-598,-181)rotate(0)" text-anchor="middle">
+            UML
+        </text>
+        <text id="tag_58"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(532,-708)rotate(-90)" text-anchor="middle">
+            Object-Oriented Analysis&amp; Design
+        </text>
+        <text id="tag_36"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(780,-676)rotate(-90)" text-anchor="middle">
+            AWS Command Line Interface
+        </text>
+        <text id="tag_37"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-50,611)rotate(90)" text-anchor="middle">
+            Amazon RDS
+        </text>
+        <text id="tag_57"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-772,-545)rotate(90)" text-anchor="middle">
+            Apache HDFS
+        </text>
+        <text id="tag_5"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(644,-218)rotate(0)" text-anchor="middle">
+            Microsoft SQL Server
+        </text>
+        <text id="tag_46"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(252,645)rotate(90)" text-anchor="middle">
+            Data Imputation
+        </text>
+        <text id="tag_47"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(187,-236)rotate(0)" text-anchor="middle">
+            Crystal Reports
+        </text>
+        <text id="tag_51"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-676,-683)rotate(90)" text-anchor="middle">
+            Business Process Redesign
+        </text>
+        <text id="tag_45"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(566,-605)rotate(90)" text-anchor="middle">
+            Clustering Analysis
+        </text>
+        <text id="tag_85"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-604,553)rotate(0)" text-anchor="middle">
+            Machine Learning
+        </text>
+        <text id="tag_53"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(656,-608)rotate(-90)" text-anchor="middle">
+            Business Analysis
+        </text>
+        <text id="tag_78"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(663,-254)rotate(0)" text-anchor="middle">
+            Data Science
+        </text>
+        <text id="tag_81"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(686,427)rotate(0)" text-anchor="middle">
+            Graph Theory
+        </text>
+        <text id="tag_72"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(298,353)rotate(90)" text-anchor="middle">
+            JavaScript
+        </text>
+        <text id="tag_54"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(504,-168)rotate(0)" text-anchor="middle">
+            Agile
+        </text>
+        <text id="tag_55"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(169,320)rotate(-90)" text-anchor="middle">
+            Scrum
+        </text>
+        <text id="tag_8"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-28,-651)rotate(-90)" text-anchor="middle">
+            Data Modeling
+        </text>
+        <text id="tag_29"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-169,-139)rotate(90)" text-anchor="middle">
+            AWS
+        </text>
+        <text id="tag_40"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(105,-694)rotate(-90)" text-anchor="middle">
+            Amazon DynamoDB
+        </text>
+        <text id="tag_41"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-518,-644)rotate(-90)" text-anchor="middle">
+            AWS Lambda
+        </text>
+        <text id="tag_35"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(415,-660)rotate(90)" text-anchor="middle">
+            AWS CloudTrail
+        </text>
+        <text id="tag_80"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-484,-240)rotate(-90)" text-anchor="middle">
+            Redis
+        </text>
+        <text id="tag_50"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-88,772)rotate(90)" text-anchor="middle">
+            Business Process Improvement
+        </text>
+        <text id="tag_60"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-268,-555)rotate(0)" text-anchor="middle">
+            Microsoft Word
+        </text>
+        <text id="tag_70"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-585,345)rotate(90)" text-anchor="middle">
+            JupyterLab
+        </text>
+        <text id="tag_48"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(183,646)rotate(90)" text-anchor="middle">
+            Apache Hadoop
+        </text>
+        <text id="tag_61"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(272,-657)rotate(90)" text-anchor="middle">
+            Microsoft Visio
+        </text>
+        <text id="tag_52"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(168,682)rotate(-90)" text-anchor="middle">
+            Project Management
+        </text>
+        <text id="tag_6"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(187,-710)rotate(90)" text-anchor="middle">
+            Relational Databases
+        </text>
+        <text id="tag_11"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-165,-272)rotate(0)" text-anchor="middle">
+            Stored Procedures
+        </text>
+        <text id="tag_63"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(325,649)rotate(-90)" text-anchor="middle">
+            Amazon Redshift
+        </text>
+        <text id="tag_43"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-296,-605)rotate(0)" text-anchor="middle">
+            Classification Analysis
+        </text>
+        <text id="tag_16"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(651,324)rotate(0)" text-anchor="middle">
+            Pandas
+        </text>
+        <text id="tag_39"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(50,688)rotate(-90)" text-anchor="middle">
+            Amazon DocumentDB
+        </text>
+        <text id="tag_86"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(640,555)rotate(0)" text-anchor="middle">
+            Data Visualization
+        </text>
+        <text id="tag_22"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-394,333)rotate(0)" text-anchor="middle">
+            Seaborn
+        </text>
+        <text id="tag_38"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-96,647)rotate(-90)" text-anchor="middle">
+            Amazon Athena
+        </text>
+        <text id="tag_49"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-181,611)rotate(-90)" text-anchor="middle">
+            Apache Hive
+        </text>
+        <text id="tag_59"
+              style="font-size: 40px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-221,-649)rotate(0)" text-anchor="middle">
+            Microsoft Excel
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewRepresentation">
+    <config key="data">
+        <entry key="numSettings" type="xint" value="87"/>
+        <config key="0">
+            <entry key="id" type="xstring" value="tag_2"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="7"/>
+                <entry key="0" type="xstring" value="Row17"/>
+                <entry key="1" type="xstring" value="Row8"/>
+                <entry key="2" type="xstring" value="Row26"/>
+                <entry key="3" type="xstring" value="Row14"/>
+                <entry key="4" type="xstring" value="Row23"/>
+                <entry key="5" type="xstring" value="Row11"/>
+                <entry key="6" type="xstring" value="Row20"/>
+            </config>
+            <entry key="text" type="xstring" value="PostgreSQL"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="1">
+            <entry key="id" type="xstring" value="tag_1"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="7"/>
+                <entry key="0" type="xstring" value="Row19"/>
+                <entry key="1" type="xstring" value="Row16"/>
+                <entry key="2" type="xstring" value="Row25"/>
+                <entry key="3" type="xstring" value="Row7"/>
+                <entry key="4" type="xstring" value="Row13"/>
+                <entry key="5" type="xstring" value="Row22"/>
+                <entry key="6" type="xstring" value="Row10"/>
+            </config>
+            <entry key="text" type="xstring" value="SQL"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="2">
+            <entry key="id" type="xstring" value="tag_3"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="7"/>
+                <entry key="0" type="xstring" value="Row18"/>
+                <entry key="1" type="xstring" value="Row27"/>
+                <entry key="2" type="xstring" value="Row9"/>
+                <entry key="3" type="xstring" value="Row15"/>
+                <entry key="4" type="xstring" value="Row24"/>
+                <entry key="5" type="xstring" value="Row12"/>
+                <entry key="6" type="xstring" value="Row21"/>
+            </config>
+            <entry key="text" type="xstring" value="MongoDB"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="3">
+            <entry key="id" type="xstring" value="tag_26"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="7"/>
+                <entry key="0" type="xstring" value="Row85"/>
+                <entry key="1" type="xstring" value="Row83"/>
+                <entry key="2" type="xstring" value="Row81"/>
+                <entry key="3" type="xstring" value="Row79"/>
+                <entry key="4" type="xstring" value="Row77"/>
+                <entry key="5" type="xstring" value="Row87"/>
+                <entry key="6" type="xstring" value="Row108"/>
+            </config>
+            <entry key="text" type="xstring" value="Extract, Transform, Load"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="4">
+            <entry key="id" type="xstring" value="tag_27"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="7"/>
+                <entry key="0" type="xstring" value="Row109"/>
+                <entry key="1" type="xstring" value="Row84"/>
+                <entry key="2" type="xstring" value="Row82"/>
+                <entry key="3" type="xstring" value="Row80"/>
+                <entry key="4" type="xstring" value="Row78"/>
+                <entry key="5" type="xstring" value="Row88"/>
+                <entry key="6" type="xstring" value="Row86"/>
+            </config>
+            <entry key="text" type="xstring" value="ETL"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="7.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="5">
+            <entry key="id" type="xstring" value="tag_17"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="6"/>
+                <entry key="0" type="xstring" value="Row62"/>
+                <entry key="1" type="xstring" value="Row60"/>
+                <entry key="2" type="xstring" value="Row58"/>
+                <entry key="3" type="xstring" value="Row68"/>
+                <entry key="4" type="xstring" value="Row66"/>
+                <entry key="5" type="xstring" value="Row64"/>
+            </config>
+            <entry key="text" type="xstring" value="Scikit-Learn"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="6.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="6">
+            <entry key="id" type="xstring" value="tag_18"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="6"/>
+                <entry key="0" type="xstring" value="Row63"/>
+                <entry key="1" type="xstring" value="Row61"/>
+                <entry key="2" type="xstring" value="Row59"/>
+                <entry key="3" type="xstring" value="Row69"/>
+                <entry key="4" type="xstring" value="Row67"/>
+                <entry key="5" type="xstring" value="Row65"/>
+            </config>
+            <entry key="text" type="xstring" value="Sklearn"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="6.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="7">
+            <entry key="id" type="xstring" value="tag_14"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="6"/>
+                <entry key="0" type="xstring" value="Row52"/>
+                <entry key="1" type="xstring" value="Row51"/>
+                <entry key="2" type="xstring" value="Row50"/>
+                <entry key="3" type="xstring" value="Row55"/>
+                <entry key="4" type="xstring" value="Row54"/>
+                <entry key="5" type="xstring" value="Row53"/>
+            </config>
+            <entry key="text" type="xstring" value="Python"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="6.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="8">
+            <entry key="id" type="xstring" value="tag_9"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="Row41"/>
+                <entry key="1" type="xstring" value="Row39"/>
+                <entry key="2" type="xstring" value="Row37"/>
+                <entry key="3" type="xstring" value="Row35"/>
+                <entry key="4" type="xstring" value="Row33"/>
+            </config>
+            <entry key="text" type="xstring" value="Star Schema"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="5.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="9">
+            <entry key="id" type="xstring" value="tag_13"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="Row49"/>
+                <entry key="1" type="xstring" value="Row48"/>
+                <entry key="2" type="xstring" value="Row47"/>
+                <entry key="3" type="xstring" value="Row46"/>
+                <entry key="4" type="xstring" value="Row45"/>
+            </config>
+            <entry key="text" type="xstring" value="Tableau"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="5.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="10">
+            <entry key="id" type="xstring" value="tag_10"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="Row40"/>
+                <entry key="1" type="xstring" value="Row38"/>
+                <entry key="2" type="xstring" value="Row36"/>
+                <entry key="3" type="xstring" value="Row34"/>
+                <entry key="4" type="xstring" value="Row42"/>
+            </config>
+            <entry key="text" type="xstring" value="Snowflake Schema"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="5.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="11">
+            <entry key="id" type="xstring" value="tag_28"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="5"/>
+                <entry key="0" type="xstring" value="Row92"/>
+                <entry key="1" type="xstring" value="Row91"/>
+                <entry key="2" type="xstring" value="Row90"/>
+                <entry key="3" type="xstring" value="Row110"/>
+                <entry key="4" type="xstring" value="Row89"/>
+            </config>
+            <entry key="text" type="xstring" value="Java"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="5.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="12">
+            <entry key="id" type="xstring" value="tag_67"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="3"/>
+                <entry key="0" type="xstring" value="Row140"/>
+                <entry key="1" type="xstring" value="Row141"/>
+                <entry key="2" type="xstring" value="Row142"/>
+            </config>
+            <entry key="text" type="xstring" value="SAS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="13">
+            <entry key="id" type="xstring" value="tag_65"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="3"/>
+                <entry key="0" type="xstring" value="Row134"/>
+                <entry key="1" type="xstring" value="Row136"/>
+                <entry key="2" type="xstring" value="Row138"/>
+            </config>
+            <entry key="text" type="xstring" value="R"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="14">
+            <entry key="id" type="xstring" value="tag_64"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="3"/>
+                <entry key="0" type="xstring" value="Row133"/>
+                <entry key="1" type="xstring" value="Row135"/>
+                <entry key="2" type="xstring" value="Row137"/>
+            </config>
+            <entry key="text" type="xstring" value="Scala"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="3.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="15">
+            <entry key="id" type="xstring" value="tag_24"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="2"/>
+                <entry key="0" type="xstring" value="Row106"/>
+                <entry key="1" type="xstring" value="Row75"/>
+            </config>
+            <entry key="text" type="xstring" value="Data Warehouse"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="16">
+            <entry key="id" type="xstring" value="tag_25"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="2"/>
+                <entry key="0" type="xstring" value="Row76"/>
+                <entry key="1" type="xstring" value="Row107"/>
+            </config>
+            <entry key="text" type="xstring" value="Exploratory Data Analysis"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="2.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="17">
+            <entry key="id" type="xstring" value="tag_34"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row98"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon EBS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="18">
+            <entry key="id" type="xstring" value="tag_7"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row31"/>
+            </config>
+            <entry key="text" type="xstring" value="Non-Relational Databases"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="19">
+            <entry key="id" type="xstring" value="tag_30"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row94"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon EC2"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="20">
+            <entry key="id" type="xstring" value="tag_87"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row162"/>
+            </config>
+            <entry key="text" type="xstring" value="Data Preprocessing"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="21">
+            <entry key="id" type="xstring" value="tag_69"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row144"/>
+            </config>
+            <entry key="text" type="xstring" value="SSRS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="22">
+            <entry key="id" type="xstring" value="tag_79"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row154"/>
+            </config>
+            <entry key="text" type="xstring" value="Association Rules"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="23">
+            <entry key="id" type="xstring" value="tag_83"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row158"/>
+            </config>
+            <entry key="text" type="xstring" value="Data Mining"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="24">
+            <entry key="id" type="xstring" value="tag_66"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row139"/>
+            </config>
+            <entry key="text" type="xstring" value="Ggplot2"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="25">
+            <entry key="id" type="xstring" value="tag_75"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row150"/>
+            </config>
+            <entry key="text" type="xstring" value="Anaconda"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="26">
+            <entry key="id" type="xstring" value="tag_15"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row56"/>
+            </config>
+            <entry key="text" type="xstring" value="NumPy"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="27">
+            <entry key="id" type="xstring" value="tag_77"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row152"/>
+            </config>
+            <entry key="text" type="xstring" value="Command Line Interface"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="28">
+            <entry key="id" type="xstring" value="tag_44"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row113"/>
+            </config>
+            <entry key="text" type="xstring" value="Dimensionality Reduction"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="29">
+            <entry key="id" type="xstring" value="tag_23"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row74"/>
+            </config>
+            <entry key="text" type="xstring" value="Docker"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="30">
+            <entry key="id" type="xstring" value="tag_4"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row28"/>
+            </config>
+            <entry key="text" type="xstring" value="MySQL"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="31">
+            <entry key="id" type="xstring" value="tag_21"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row72"/>
+            </config>
+            <entry key="text" type="xstring" value="MatPlotLib"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="32">
+            <entry key="id" type="xstring" value="tag_62"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row131"/>
+            </config>
+            <entry key="text" type="xstring" value="Microsoft PowerPoint"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="33">
+            <entry key="id" type="xstring" value="tag_71"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row146"/>
+            </config>
+            <entry key="text" type="xstring" value="KNIME"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="34">
+            <entry key="id" type="xstring" value="tag_82"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row157"/>
+            </config>
+            <entry key="text" type="xstring" value="Linear Algebra"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="35">
+            <entry key="id" type="xstring" value="tag_84"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row159"/>
+            </config>
+            <entry key="text" type="xstring" value="Business Intelligence"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="36">
+            <entry key="id" type="xstring" value="tag_20"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row71"/>
+            </config>
+            <entry key="text" type="xstring" value="SciPy"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="37">
+            <entry key="id" type="xstring" value="tag_33"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row97"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon ECS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="38">
+            <entry key="id" type="xstring" value="tag_32"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row96"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon Aurora"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="39">
+            <entry key="id" type="xstring" value="tag_73"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row148"/>
+            </config>
+            <entry key="text" type="xstring" value="Node.JS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="40">
+            <entry key="id" type="xstring" value="tag_74"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row149"/>
+            </config>
+            <entry key="text" type="xstring" value="Visual Studio"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="41">
+            <entry key="id" type="xstring" value="tag_12"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row44"/>
+            </config>
+            <entry key="text" type="xstring" value="Common Table Expression"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="42">
+            <entry key="id" type="xstring" value="tag_68"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row143"/>
+            </config>
+            <entry key="text" type="xstring" value="SSIS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="43">
+            <entry key="id" type="xstring" value="tag_42"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row111"/>
+            </config>
+            <entry key="text" type="xstring" value="Regression Analysis"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="44">
+            <entry key="id" type="xstring" value="tag_19"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row70"/>
+            </config>
+            <entry key="text" type="xstring" value="Statsmodels"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="45">
+            <entry key="id" type="xstring" value="tag_31"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row95"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon Simple Storage Service (S3)"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="46">
+            <entry key="id" type="xstring" value="tag_76"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row151"/>
+            </config>
+            <entry key="text" type="xstring" value="Linux"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="47">
+            <entry key="id" type="xstring" value="tag_56"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row125"/>
+            </config>
+            <entry key="text" type="xstring" value="UML"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="48">
+            <entry key="id" type="xstring" value="tag_58"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row127"/>
+            </config>
+            <entry key="text" type="xstring" value="Object-Oriented Analysis &amp; Design"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="49">
+            <entry key="id" type="xstring" value="tag_36"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row100"/>
+            </config>
+            <entry key="text" type="xstring" value="AWS Command Line Interface"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="50">
+            <entry key="id" type="xstring" value="tag_37"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row101"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon RDS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="51">
+            <entry key="id" type="xstring" value="tag_57"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row126"/>
+            </config>
+            <entry key="text" type="xstring" value="Apache HDFS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="52">
+            <entry key="id" type="xstring" value="tag_5"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row29"/>
+            </config>
+            <entry key="text" type="xstring" value="Microsoft SQL Server"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="53">
+            <entry key="id" type="xstring" value="tag_46"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row115"/>
+            </config>
+            <entry key="text" type="xstring" value="Data Imputation"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="54">
+            <entry key="id" type="xstring" value="tag_47"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row116"/>
+            </config>
+            <entry key="text" type="xstring" value="Crystal Reports"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="55">
+            <entry key="id" type="xstring" value="tag_51"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row120"/>
+            </config>
+            <entry key="text" type="xstring" value="Business Process Redesign"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="56">
+            <entry key="id" type="xstring" value="tag_45"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row114"/>
+            </config>
+            <entry key="text" type="xstring" value="Clustering Analysis"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="57">
+            <entry key="id" type="xstring" value="tag_85"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row160"/>
+            </config>
+            <entry key="text" type="xstring" value="Machine Learning"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="58">
+            <entry key="id" type="xstring" value="tag_53"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row122"/>
+            </config>
+            <entry key="text" type="xstring" value="Business Analysis"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="59">
+            <entry key="id" type="xstring" value="tag_78"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row153"/>
+            </config>
+            <entry key="text" type="xstring" value="Data Science"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="60">
+            <entry key="id" type="xstring" value="tag_81"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row156"/>
+            </config>
+            <entry key="text" type="xstring" value="Graph Theory"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="61">
+            <entry key="id" type="xstring" value="tag_72"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row147"/>
+            </config>
+            <entry key="text" type="xstring" value="JavaScript"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="62">
+            <entry key="id" type="xstring" value="tag_54"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row123"/>
+            </config>
+            <entry key="text" type="xstring" value="Agile"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="63">
+            <entry key="id" type="xstring" value="tag_55"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row124"/>
+            </config>
+            <entry key="text" type="xstring" value="Scrum"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="64">
+            <entry key="id" type="xstring" value="tag_8"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row32"/>
+            </config>
+            <entry key="text" type="xstring" value="Data Modeling"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="65">
+            <entry key="id" type="xstring" value="tag_29"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row93"/>
+            </config>
+            <entry key="text" type="xstring" value="AWS"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="66">
+            <entry key="id" type="xstring" value="tag_40"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row104"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon DynamoDB"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="67">
+            <entry key="id" type="xstring" value="tag_41"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row105"/>
+            </config>
+            <entry key="text" type="xstring" value="AWS Lambda"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="68">
+            <entry key="id" type="xstring" value="tag_35"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row99"/>
+            </config>
+            <entry key="text" type="xstring" value="AWS CloudTrail"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="69">
+            <entry key="id" type="xstring" value="tag_80"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row155"/>
+            </config>
+            <entry key="text" type="xstring" value="Redis"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="70">
+            <entry key="id" type="xstring" value="tag_50"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row119"/>
+            </config>
+            <entry key="text" type="xstring" value="Business Process Improvement"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="71">
+            <entry key="id" type="xstring" value="tag_60"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row129"/>
+            </config>
+            <entry key="text" type="xstring" value="Microsoft Word"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="72">
+            <entry key="id" type="xstring" value="tag_70"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row145"/>
+            </config>
+            <entry key="text" type="xstring" value="JupyterLab"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="73">
+            <entry key="id" type="xstring" value="tag_48"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row117"/>
+            </config>
+            <entry key="text" type="xstring" value="Apache Hadoop"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="74">
+            <entry key="id" type="xstring" value="tag_61"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row130"/>
+            </config>
+            <entry key="text" type="xstring" value="Microsoft Visio"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="75">
+            <entry key="id" type="xstring" value="tag_52"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row121"/>
+            </config>
+            <entry key="text" type="xstring" value="Project Management"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="76">
+            <entry key="id" type="xstring" value="tag_6"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row30"/>
+            </config>
+            <entry key="text" type="xstring" value="Relational Databases"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="77">
+            <entry key="id" type="xstring" value="tag_11"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row43"/>
+            </config>
+            <entry key="text" type="xstring" value="Stored Procedures"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="78">
+            <entry key="id" type="xstring" value="tag_63"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row132"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon Redshift"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="79">
+            <entry key="id" type="xstring" value="tag_43"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row112"/>
+            </config>
+            <entry key="text" type="xstring" value="Classification Analysis"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="80">
+            <entry key="id" type="xstring" value="tag_16"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row57"/>
+            </config>
+            <entry key="text" type="xstring" value="Pandas"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="81">
+            <entry key="id" type="xstring" value="tag_39"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row103"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon DocumentDB"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="82">
+            <entry key="id" type="xstring" value="tag_86"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row161"/>
+            </config>
+            <entry key="text" type="xstring" value="Data Visualization"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="83">
+            <entry key="id" type="xstring" value="tag_22"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row73"/>
+            </config>
+            <entry key="text" type="xstring" value="Seaborn"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="84">
+            <entry key="id" type="xstring" value="tag_38"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row102"/>
+            </config>
+            <entry key="text" type="xstring" value="Amazon Athena"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="85">
+            <entry key="id" type="xstring" value="tag_49"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row118"/>
+            </config>
+            <entry key="text" type="xstring" value="Apache Hive"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+        <config key="86">
+            <entry key="id" type="xstring" value="tag_59"/>
+            <config key="rowIDs">
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="Row128"/>
+            </config>
+            <entry key="text" type="xstring" value="Microsoft Excel"/>
+            <entry key="color" type="xstring" isnull="true" value=""/>
+            <entry key="size" type="xdouble" value="1.0"/>
+            <entry key="opacity" type="xdouble" value="0.0"/>
+        </config>
+    </config>
+    <entry key="tableID" type="xstring" value="4459a0ca-7031-4598-b302-7eb1bbd8e5e6"/>
+    <config key="subscriptionFilterIds">
+        <entry key="array-size" type="xint" value="0"/>
+    </config>
+    <config key="warningMessages">
+        <entry key="numSettings" type="xint" value="0"/>
+    </config>
+    <entry key="imageGeneration" type="xboolean" value="false"/>
+    <entry key="warningsInView" type="xboolean" value="true"/>
+    <entry key="resizeToWindow" type="xboolean" value="false"/>
+    <entry key="imageWidth" type="xint" value="1584"/>
+    <entry key="imageHeight" type="xint" value="396"/>
+    <entry key="displayFullscreenButton" type="xboolean" value="true"/>
+    <entry key="displayRefreshButton" type="xboolean" value="false"/>
+    <entry key="disableAnimations" type="xboolean" value="false"/>
+    <entry key="colorProp" type="xboolean" value="false"/>
+    <entry key="font" type="xstring" value="Impact"/>
+    <entry key="fontBold" type="xboolean" value="true"/>
+    <entry key="enableViewConfiguration" type="xboolean" value="true"/>
+    <entry key="enableTitleChange" type="xboolean" value="true"/>
+    <entry key="enableSubtitleChange" type="xboolean" value="true"/>
+    <entry key="enableFontSizeChange" type="xboolean" value="true"/>
+    <entry key="enableScaleTypeChange" type="xboolean" value="true"/>
+    <entry key="enableSpiralTypeChange" type="xboolean" value="true"/>
+    <entry key="enableNumOrientationsChange" type="xboolean" value="true"/>
+    <entry key="enableAnglesChange" type="xboolean" value="true"/>
+    <entry key="enableSelection" type="xboolean" value="true"/>
+    <entry key="selectionColor" type="xstring" value="#0000CC"/>
+    <entry key="enableShowSelectedOnly" type="xboolean" value="false"/>
+    <entry key="displayClearSelectionButton" type="xboolean" value="true"/>
+</config>
